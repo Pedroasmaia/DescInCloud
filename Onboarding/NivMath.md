@@ -23,15 +23,41 @@
 
 - Exemplo:  
 
-~~~math
+    ~~~math
     a = 1
     b = 2
     a/b = 1/2
-~~~
+    ~~~
 
 - Sendo 1/2 um número racional
 - Todo números *Inteiros* e *Naturais* são *Racionais*
 
 - *Dízimas periódicas* contem infinitas casas decimais e fazem parte do conjunto dos *Racionais*
 
-- 
+### Dízimas Periódicas
+
+- São divisões com infinitas casa decimais que se repetem periodicamente.
+- Exemplo:
+
+    ~~~math
+    2/9 = 0,222...
+    ~~~
+
+- Frazão Geratriz é a fração que gera a dizima periódica
+- Exemplo:
+
+    ~~~math
+    Temos a dizima 0,777...
+    x = 0,777
+    Multiplicamos ambos os lados por 10 para igualar
+    10x = 7,777...
+    Separar a parte inteira da Decimal
+    10x = 7 + 0,777....
+    Lembrando que definimos que 0,777... é igual a 'X', podemos escrever essa equação sendo
+    10x = 7 + x
+    Passamos o X para esquerda 
+    10x - x = 7
+    9x = 7 
+    E resolvemos a equação passando o 9 na operação inversa
+    x = 7/9
+    ~~~
