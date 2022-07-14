@@ -61,3 +61,35 @@
     E resolvemos a equação passando o 9 na operação inversa
     x = 7/9
     ~~~
+
+## Conjunto dos números irracionais e reais
+
+### Números Irracionais (I)
+
+- É um número que não tem um padrão após a virgula.
+- Exemplo:
+
+  ~~~math
+    √2 = 1,4142...
+  ~~~
+
+- O primeiro contato que tivemos com esse número foi com o Pi.
+- Qualquer raiz de número primo são irracionais.
+
+### Números Reais (R)
+
+- O Conjunto dos reais contem os números Racionais e os Números Irracionais.
+
+~~~json
+[ "Reais" = {
+    "Racionais" : {
+        "Inteiros" : {
+            "Naturais" : "Números contaveis positivos"
+        }
+    },
+    "Irracionais" : "É um número que não tem um padrão após a virgula."
+}
+]
+~~~
+
+
