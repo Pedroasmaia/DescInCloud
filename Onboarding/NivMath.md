@@ -95,3 +95,15 @@
 ~~~
 
 
+
+
+
+### Intervalos reais
+
+- [X e R / 2 < x < 5]:
+  - X pertence aos números reais(R), é maior que dois e menor que 5. Logo 2][5
+- [X e R / -3 < x < 2]:
+  - X pertence aos números reais(R), e é maior que -3 e menor que 2. Logo ]-3,2]
+- ]-1,2[u]5,7]
+  - O [u] representa união
+  - 
